@@ -1,2 +1,2 @@
 # emilia
-A background removal tool. Made with Python. GUI coming soon(?)
+A background removal tool using the python rembg library
